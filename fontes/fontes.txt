@@ -1,0 +1,52 @@
+FONTES:
+
+sans-serif: sem serifa
+monoespaçada: todas as letras ocupam o mesmo espaço
+handwriting: simula escrita à mão
+display: fontes festivas
+
+declarações seguras:
+Procura as fontes que estão disponíveis
+opções na ordem; inserir uma declaração generica
+no fim: sans serif, serif...
+--------------------------
+medidas absolutas: 
+são diferentes nos dispositivos
+cm, mm, in, px. pt, pc
+
+medidas relativas: 
+em:relativas ao M maiusculo
+ex, rem, vw, vh, %
+
+1em = 16px
+em e px são padrão
+-------------------------
+font-weight: 100-900 ou lighter, normal, bold, bolder
+font-style: italic
+text-dcoration: underline
+
+shorthand ordem (font-style, font weight, font-size, font-family)
+font: italic bolder 3em 'work Sans' sans-serif;
+------------------------
+Google Fonts:
+fonts.google.com
+importar fonte e colocar no css fora dos seletores
+
+DaFont:
+@font-face{
+	font-family:
+	src: url()
+	}
+------------------------
+Fonts Ninja:
+Extensão que faz possível identificar as fontes na web.
+
+Whatfontis.com, fontsquirrel:
+Sites que identificam as fontes em imagens
+------------------------
+
+
+
+
+
+

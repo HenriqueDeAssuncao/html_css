@@ -1,0 +1,4 @@
+1. cortar as imagens com a ferramenta disponível no gimp;
+2. alt serve como texto para deficientes visuais; substitui o texto
+3. ctrl+espaço mostra os arquivos em src
+4. GIMP: recortar para o o conteúdo

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-classes</title>
+    <style>
+        div{ 
+            background-color: lightgray;
+            text-align: center;
+            height: 40px;
+            width: 200px;
+            border: 1px solid black; 
+            /* border=shorthand: largura, tipo, cor*/
+            display: inline-block;
+            border-radius: 10px;
+        }
+        div:hover{
+            background-color: yellow;
+        }
+        main{
+            margin: auto;
+            width: 700px;
+        }
+        div#d1 {
+            background-color: black;
+        }
+        div:hover > p {
+            color: red;
+            font-size: 1em;
+            display: block;
+
+         }
+         p {
+             display: none;
+         }
+
+    </style>
+</head>
+<body>
+    <main>
+        <div id="d1">01</div>
+        <div id="d2"><p>que te jóóoo</p></div>
+        <div id="d3">03</div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,22 @@
+um elemento pode pertencer a duas classes
+exemplo:
+h2 class="avancado destaque" -> o espaço concatena as duas classes
+----------------------
+um elemento pode pertencer a uma classe e possuir um id
+----------------------
+div#d1{
+}
+----------------------
+pseudo-classe: relativo a um estado
+	div > p {
+            display: none;
+        }
+
+        div:hover {
+            color: red;
+        }
+
+      	div:hover > p {
+            display: block; 
+            /* block exibe o texto */
+            color: red;

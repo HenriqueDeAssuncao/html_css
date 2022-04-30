@@ -1,0 +1,45 @@
+typos - impressão
+grapgía - escrita
+
+tipografia transmite emoções
+glifo: letra
+fonte: família de glifos
+família tipográfica: variação da fonte
+
+Itens geométricos:
+
+altura x: altura base das letras minúsculas baseado no x
+altura das maiúsculas: altura das letras maiúsculas
+ascendente: tamanho do que vazou para cima do tamanho de x
+descendente: vazamento para baixo
+corpo: somatório de todos
+
+Itens anatômicos:
+
+serifa: traço curvado nas pontas das letras
+filete
+arco
+haste
+esporão
+terminal
+braço
+perna
+pé
+espinha
+barriga
+olho
+orelha
+cauda
+---------------------------
+obs: texto grande preto no fundo branco
+---------------------------
+categorias:
+
+sans-serif: sem serifa
+monoespaçada: todas as letras ocupam o mesmo espaço
+handwriting: simula escrita à mão
+display: fontes festivas
+---------------------------
+
+
+

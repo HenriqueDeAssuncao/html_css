@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#titulo{
+    color: black;
+
+}
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: blue;
+}
+h2{ 
+    color: blueviolet;
+}

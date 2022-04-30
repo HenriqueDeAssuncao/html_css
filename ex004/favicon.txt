@@ -1,0 +1,10 @@
+favicon:
+imagens sem muito detalhes
+
+formato: .ico
+site: favicon.cc
+
+----------------------------
+Em flavicon.cc é possível converter um png para .ico
+----------------------------
+digitar dentro da tag head "link" e selecionar o favicon.

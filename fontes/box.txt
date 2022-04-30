@@ -1,0 +1,22 @@
+Box model:
+hierarquia de caixas,
+aninhamento.
+
+todo elemento é uma caixa.
+--------------------------------
+border: linha que circunda o conteúdo;
+padding: distância entre o conteúdo e a borda;
+margin: distância da borda para outras caixas;
+outline: contorno ou traçado fora do elemento rente a borda.
+--------------------------------
+TIPOS DE CAIXA:
+
+-Box-level: width ocupa 100 do viewport;
+-Inline-level: não pula a linha, não a quebra e não ocupa 100% do viewport;
+
+Box-level: div, h1-h6, p, main, header, nav, article, aside, footer, form, video.
+Inline-lvel: span, a, code, small, strong, em, sup, sub, label, button, input, select.
+
+user-agent: navegador
+border-width, border-style, border-color,
+margin: auto: centraliza as caixas
